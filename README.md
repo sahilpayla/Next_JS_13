@@ -10,3 +10,4 @@
 
 **Commands** 
 1. npx create-next-app myapp
+2. npm run dev
