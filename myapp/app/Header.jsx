@@ -1,7 +1,11 @@
+"use client"; 
+
 import Link from 'next/link'
 import React from 'react'
 
+
 const Header = () => {
+   console.log('hello ')
    return (
       <div>
          <Link href={"/"}>Home</Link>
